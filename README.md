@@ -1,12 +1,397 @@
-- 👋 Hi, I’m @kaunaydaSilvaOliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="kauany da silva oliveira" content="width=device-width, initial-scale=1.0">
+    <title>Efeito Estufa: Entenda e Atue</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f2f7; /* Um azul claro suave */
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #28a745; /* Verde vibrante */
+            color: white;
+            padding: 1.5em 0;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        nav {
+            background-color: #34495e; /* Azul escuro quase preto */
+            padding: 0.8em 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.8em 1.2em;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        nav a:hover {
+            background-color: #2c3e50; /* Um pouco mais escuro ao passar o mouse */
+        }
+        .container {
+            width: 85%;
+            max-width: 960px;
+            margin: 25px auto;
+            padding: 20px 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #28a745;
+            text-align: center;
+        }
+        h2 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5em 0;
+            background-color: #34495e;
+            color: white;
+            margin-top: 30px;
+            box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Efeito Estufa: Entenda e Atue</h1>
+        <p>Informação e Ação para um Futuro Sustentável</p>
+    </header>
 
-<!---
-kaunaydaSilvaOliveira/kaunaydaSilvaOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <nav>
+        <a href="index.html">O Efeito Estufa</a>
+        <a href="solucoes.html">Como Resolver</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+
+    <div class="container">
+        <h2>O Que É o Efeito Estufa?</h2>
+        <p>O **efeito estufa** é um fenômeno natural essencial para a vida na Terra. Ele ocorre quando gases presentes na atmosfera, como o dióxido de carbono (CO2), metano (CH4) e óxido nitroso (N2O), retêm parte do calor emitido pelo Sol e refletido pela superfície terrestre, mantendo o planeta aquecido e com temperaturas adequadas para a existência de diversas formas de vida.</p>
+
+        <h2>O Problema: Intensificação Antrópica</h2>
+        <p>O problema surge quando as atividades humanas intensificam esse processo natural. A queima de combustíveis fósseis (carvão, petróleo e gás natural), o desmatamento, a agricultura intensiva e a indústria liberam grandes quantidades de gases de efeito estufa (GEE) na atmosfera. Isso faz com que mais calor seja retido, resultando no **aquecimento global** e nas **mudanças climáticas**.</p>
+
+        <h3>Consequências da Intensificação do Efeito Estufa:</h3>
+        <ul>
+            <li>Aumento das temperaturas médias globais.</li>
+            <li>Derretimento de geleiras e calotas polares, elevando o nível do mar.</li>
+            <li>Eventos climáticos extremos mais frequentes e intensos (ondas de calor, secas, inundações, tempestades).</li>
+            <li>Perda de biodiversidade e desequilíbrios ecossistêmicos.</li>
+            <li>Impactos na agricultura e na segurança alimentar.</li>
+        </ul>
+        <p>Compreender o efeito estufa é o primeiro passo para agir. Na próxima página, exploraremos as diversas **soluções** que podem ser implementadas para mitigar seus impactos e construir um futuro mais sustentável.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Efeito Estufa: Entenda e Atue. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="kauany da silva oliveira" content="width=device-width, initial-scale=1.0">
+    <title>Efeito Estufa: Como Resolver</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f2f7;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #28a745;
+            color: white;
+            padding: 1.5em 0;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        nav {
+            background-color: #34495e;
+            padding: 0.8em 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.8em 1.2em;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        nav a:hover {
+            background-color: #2c3e50;
+        }
+        .container {
+            width: 85%;
+            max-width: 960px;
+            margin: 25px auto;
+            padding: 20px 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #28a745;
+            text-align: center;
+        }
+        h2 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 25px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5em 0;
+            background-color: #34495e;
+            color: white;
+            margin-top: 30px;
+            box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Efeito Estufa: Entenda e Atue</h1>
+        <p>Informação e Ação para um Futuro Sustentável</p>
+    </header>
+
+    <nav>
+        <a href="index.html">O Efeito Estufa</a>
+        <a href="solucoes.html">Como Resolver</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+
+    <div class="container">
+        <h2>Como Resolver o Efeito Estufa?</h2>
+        <p>A mitigação do efeito estufa e do aquecimento global requer um esforço global e ações em diversas frentes, desde políticas governamentais até atitudes individuais. As principais estratégias focam na redução das emissões de gases de efeito estufa e na remoção de GEE da atmosfera.</p>
+
+        <h3>1. Transição Energética para Fontes Renováveis</h3>
+        <ul>
+            <li>**Energia Solar:** Utilização de painéis solares para gerar eletricidade e aquecer água.</li>
+            <li>**Energia Eólica:** Geração de eletricidade através da força dos ventos.</li>
+            <li>**Energia Hidrelétrica:** Produção de energia a partir da força da água (com ressalvas sobre impactos ambientais de grandes barragens).</li>
+            <li>**Biomassa e Biocombustíveis:** Fontes de energia renováveis a partir de matéria orgânica.</li>
+            <li>**Incentivo à Pesquisa e Desenvolvimento:** Investimento em novas tecnologias de energia limpa e armazenamento.</li>
+        </ul>
+
+        <h3>2. Eficiência Energética</h3>
+        <ul>
+            <li>**Transporte Sustentável:** Incentivo ao transporte público, bicicletas, veículos elétricos e híbridos.</li>
+            <li>**Construções Sustentáveis:** Uso de materiais ecológicos, design que maximize a luz natural e a ventilação.</li>
+            <li>**Eletrodomésticos Eficientes:** Escolha de equipamentos com menor consumo de energia.</li>
+            <li>**Iluminação LED:** Substituição de lâmpadas incandescentes e fluorescentes por LEDs.</li>
+        </ul>
+
+        <h3>3. Reflorestamento e Conservação Florestal</h3>
+        <ul>
+            <li>**Plantar Árvores:** Árvores absorvem CO2 da atmosfera através da fotossíntese.</li>
+            <li>**Combate ao Desmatamento:** Proteção de florestas existentes, que são grandes "sumidouros" de carbono.</li>
+            <li>**Agricultura Sustentável:** Práticas que evitam a erosão do solo e aumentam o sequestro de carbono no solo.</li>
+        </ul>
+
+        <h3>4. Redução, Reúso e Reciclagem (3Rs)</h3>
+        <ul>
+            <li>**Consumo Consciente:** Reduzir o consumo de produtos que exigem grande quantidade de energia e recursos para sua produção.</li>
+            <li>**Reúso de Materiais:** Dar uma nova vida a objetos e embalagens.</li>
+            <li>**Reciclagem:** Processar materiais descartados para criar novos produtos, diminuindo a necessidade de extração de matéria-prima.</li>
+        </ul>
+
+        <h3>5. Mudanças na Dieta e Agricultura</h3>
+        <ul>
+            <li>**Redução do Consumo de Carne Vermelha:** A pecuária é uma grande emissora de metano.</li>
+            <li>**Incentivo à Agricultura Orgânica:** Reduz o uso de fertilizantes nitrogenados, que liberam óxido nitroso.</li>
+            <li>**Compostagem:** Transformar resíduos orgânicos em adubo, evitando a emissão de metano em aterros sanitários.</li>
+        </ul>
+
+        <h3>6. Políticas Públicas e Acordos Internacionais</h3>
+        <ul>
+            <li>**Legislações Ambientais Rígidas:** Imposição de limites de emissão para indústrias e veículos.</li>
+            <li>**Incentivos Fiscais:** Benefícios para empresas e indivíduos que adotam práticas sustentáveis.</li>
+            <li>**Acordos Climáticos:** Cooperação global para metas de redução de emissões (como o Acordo de Paris).</li>
+        </ul>
+        <p>Cada pequena ação conta. Ao adotar essas soluções no nosso dia a dia e apoiar iniciativas maiores, contribuímos significativamente para um futuro mais verde e equilibrado.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Efeito Estufa: Entenda e Atue. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="kauany da silva oliveira" content="width=device-width, initial-scale=1.0">
+    <title>Efeito Estufa: Contato</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f2f7;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #28a745;
+            color: white;
+            padding: 1.5em 0;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        nav {
+            background-color: #34495e;
+            padding: 0.8em 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.8em 1.2em;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        nav a:hover {
+            background-color: #2c3e50;
+        }
+        .container {
+            width: 85%;
+            max-width: 960px;
+            margin: 25px auto;
+            padding: 20px 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }viewport
+        h1, h2 {
+            color: #28a745;
+            text-align: center;
+        }
+        h2 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        .contact-info p {
+            margin-bottom: 10px;
+        }
+        .contact-form label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #34495e;
+        }
+        .contact-form input[type="text"],viewport
+        .contact-form input[type="email"],
+        .contact-form textarea {
+            width: calc(100% - 22px); /* Considerando padding e border */
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box; /* Garante que padding e border não aumentem a largura total */
+        }
+        .contact-form textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+        .contact-form button {
+            background-color: #28a745;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background-color 0.3s ease;
+        }
+        .contact-form button:hover {
+            background-color: #218838;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5em 0;
+            background-color: #34495e;
+            color: white;
+            margin-top: 30px;
+            box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Efeito Estufa: Entenda e Atue</h1>
+        <p>Informação e Ação para um Futuro Sustentável</p>
+    </header>
+
+    <nav>
+        <a href="index.html">O Efeito Estufa</a>
+        <a href="solucoes.html">Como Resolver</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+
+    <div class="container">
+        <h2>Fale Conosco!</h2>
+        <p>Sua opinião é muito importante para nós. Se tiver dúvidas, sugestões ou quiser compartilhar ideias sobre como combater o efeito estufa, entre em contato!</p>
+
+        <div class="contact-info">
+            <h3>Informações de Contato:</h3>
+            <p><strong>E-mail:</strong> <a href="mailto:contato@efeitoestufa.com.br" style="color: #28a745; text-decoration: none;">contato@efeitoestufa.com.br</a></p>
+            <p><strong>Telefone:</strong> (XX) XXXX-XXXX (Apenas para fins ilustrativos)</p>
+            <p><strong>Endereço:</strong> Rua da Sustentabilidade, 123 - Bairro Verde, Cidade - UF</p>
+        </div>
+
+        <div class="contact-form">
+            <h3>Envie uma Mensagem:</h3>
+            <form action="#" method="POST"> <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="assunto">Assunto:</label>
+                <input type="text" id="assunto" name="assunto">
+
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Efeito Estufa: Entenda e Atue. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
